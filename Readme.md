@@ -6,8 +6,7 @@ Ovaj kod implementira polinomijalnu regresiju. Funkcija non_func(x) generira stv
 
 **Zadatak 4**
     U databeseu je dostupno 4843 mjerenja.
-
-    Tipovi pojedinih stupaca u dataframe-u su:
+      Tipovi pojedinih stupaca u dataframe-u su:
         name: string (ime automobila)
         year: integer (godina proizvodnje automobila)
         selling_price: float (logaritam cijene u indijskim rupijama)
@@ -20,9 +19,8 @@ Ovaj kod implementira polinomijalnu regresiju. Funkcija non_func(x) generira stv
         engine: integer (zapremnina motora u cm3)
         max_power: float (maksimalna snaga motora u bhp)
         seats: integer (broj sjedala)
+  
     
-    
-
 **Zadatak 5**
 Utjecaji su:
     1. Dodavanje relevantnih značajki
