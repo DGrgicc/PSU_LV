@@ -12,7 +12,6 @@ img = mpimg.imread(filename)
 img = color.rgb2gray(img)
 img = resize(img, (28, 28))
 
-
 plt.figure()
 plt.imshow(img, cmap=plt.get_cmap('gray'))
 plt.show()
